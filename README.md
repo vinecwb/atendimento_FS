@@ -1,6 +1,6 @@
 # Atendimento_FS
 
-Este projeto utiliza TypeScript no backend e TS+React no frontend para fornecer uma aplicação de atendimento.
+Este projeto utiliza TypeScript no backend e TS+React no frontend para fornecer uma aplicação de cadastro de clientes.
 
 ## Índice
 
@@ -14,7 +14,7 @@ Este projeto utiliza TypeScript no backend e TS+React no frontend para fornecer 
 
 ## Descrição
 
-O `Atendimento_FS` é um sistema desenvolvido para gerenciar atendimentos, utilizando TypeScript no backend para garantir tipagem estática e um desenvolvimento mais seguro, e React com TypeScript no frontend para criar interfaces de usuário interativas e dinâmicas.
+O `Atendimento_FS` é um sistema desenvolvido para gerenciar clientes, utilizando TypeScript no backend para garantir tipagem estática e um desenvolvimento mais seguro, e React com TypeScript no frontend para criar interfaces de usuário interativas e dinâmicas.
 
 ## Instalação
 
